@@ -41,7 +41,7 @@ data:
             icon: home-assistant.png
             description: Home automation
         - Pi-hole:
-            href: https://pihole.morrisons.site
+            href: https://pihole.morrisons.site/admin
             icon: pi-hole.png
             description: Network-wide ad blocking
 

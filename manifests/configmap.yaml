@@ -20,6 +20,14 @@ data:
             href: https://openbao.morrisons.site
             icon: vault.png
             description: Secrets management
+        - Woodpecker:
+            href: https://woodpecker.morrisons.site
+            icon: woodpecker-ci.png
+            description: CI/CD pipelines
+        - Zot:
+            href: https://registry.morrisons.site
+            icon: zot.png
+            description: Container registry
 
     - Monitoring:
         - Grafana:

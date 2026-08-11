@@ -31,7 +31,7 @@ data:
 
     - Monitoring:
         - Grafana:
-            href: https://grafana.morrisons.site
+            href: https://grafana.morrisons.site/d/homelab-overview/homelab-overview
             icon: grafana.png
             description: Dashboards and metrics
         - Prometheus:

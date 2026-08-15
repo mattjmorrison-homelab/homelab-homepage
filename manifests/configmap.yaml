@@ -26,7 +26,7 @@ data:
             description: CI/CD pipelines
         - Zot:
             href: https://registry.morrisons.site
-            icon: zot.png
+            icon: zot-registry.png
             description: Container registry
 
     - Monitoring:
@@ -60,7 +60,7 @@ data:
             description: HDMI Wwitch Controller
         - GraphQL Router:
             href: https://graphql.morrisons.site
-            icon: apollo-graphql.png
+            icon: si-apollographql
             description: Apollo Router GraphQL supergraph
 
   bookmarks.yaml: ""

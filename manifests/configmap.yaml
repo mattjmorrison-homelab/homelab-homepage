@@ -56,7 +56,7 @@ data:
     - Applications:
         - HDMI Switch:
             href: https://hdmi-switch.morrisons.site
-            icon: hdmi.png
+            icon: https://hdmi-switch.morrisons.site/logo
             description: HDMI Wwitch Controller
 
   bookmarks.yaml: ""

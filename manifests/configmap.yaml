@@ -53,6 +53,12 @@ data:
             icon: pi-hole.png
             description: Network-wide ad blocking
 
+    - Applications:
+        - HDMI Switch:
+            href: https://hdmi-switch.morrisons.site
+            icon: hdmi.png
+            description: HDMI Wwitch Controller
+
   bookmarks.yaml: ""
 
   widgets.yaml: ""

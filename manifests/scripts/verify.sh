@@ -3,7 +3,7 @@ set -eu
 
 apk add --no-cache curl >/dev/null
 
-URL="https://homelab.morrisons.site/"
+URL="https://broken.morrisons.site/"
 STATUS=$(curl -s -o /dev/null -w "%{http_code}" "$URL")
 
 if [ "$STATUS" != "200" ]; then

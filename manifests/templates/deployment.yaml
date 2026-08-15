@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: homepage
-          image: "{{ .Values.image.repository }}:{{ .Values.image.tag }}"
+          image: "{{ .Values.image.repository }}@{{ .Values.image.digest }}"
           env:
             - name: HOMEPAGE_ALLOWED_HOSTS
               value: "homelab.morrisons.site"

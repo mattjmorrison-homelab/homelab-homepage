@@ -58,6 +58,10 @@ data:
             href: https://hdmi-switch.morrisons.site
             icon: https://hdmi-switch.morrisons.site/logo
             description: HDMI Wwitch Controller
+        - GraphQL Router:
+            href: https://graphql.morrisons.site
+            icon: apollo-graphql.png
+            description: Apollo Router GraphQL supergraph
 
   bookmarks.yaml: ""
 

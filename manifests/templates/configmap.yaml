@@ -28,6 +28,10 @@ data:
             href: https://registry.morrisons.site
             icon: zot-registry.png
             description: Container registry
+        - GitHub:
+            href: https://github.com/mattjmorrison-homelab
+            icon: github.png
+            description: Homelab source repos
 
     - Monitoring:
         - Grafana:

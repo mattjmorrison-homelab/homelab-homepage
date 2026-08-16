@@ -68,7 +68,7 @@ data:
     - External:
         - GitHub:
             - href: https://github.com/mattjmorrison-homelab
-              icon: github.png
+              icon: github-light.png
               description: Homelab source repos
         - Discord:
             - href: https://discord.com/channels/1534069041143218238/1534069041143218242
@@ -88,7 +88,7 @@ data:
               icon: k3s.png
         - Helm:
             - href: https://helm.sh/docs/
-              icon: helm.png
+              icon: si-helm-#ffffff
         - NixOS:
             - href: https://nixos.org/manual/nixos/stable/
               icon: nixos.png

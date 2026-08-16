@@ -65,7 +65,7 @@ data:
             description: Apollo Router GraphQL supergraph
 
   bookmarks.yaml: |
-    - Links:
+    - External:
         - GitHub:
             - href: https://github.com/mattjmorrison-homelab
               icon: github.png
@@ -74,5 +74,9 @@ data:
             - href: https://discord.com/channels/1534069041143218238/1534069041143218242
               icon: discord.png
               description: Alerts and notifications
+        - Cloudflare:
+            - href: https://dash.cloudflare.com/
+              icon: cloudflare.png
+              description: DNS and tunnel management
 
   widgets.yaml: ""

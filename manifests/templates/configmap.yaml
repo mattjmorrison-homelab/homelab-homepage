@@ -9,6 +9,7 @@ data:
     headerStyle: clean
     theme: dark
     color: slate
+    favicon: https://github.com/mattjmorrison-homelab.png
 
   services.yaml: |
     - Infrastructure:

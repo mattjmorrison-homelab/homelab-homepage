@@ -78,5 +78,19 @@ data:
             - href: https://dash.cloudflare.com/
               icon: cloudflare.png
               description: DNS and tunnel management
+        - Raspberry Pi OS:
+            - href: https://www.raspberrypi.com/software/operating-systems/
+              icon: raspberry-pi.png
+              description: Pi OS images and downloads
+    - Docs:
+        - k3s:
+            - href: https://docs.k3s.io/
+              icon: k3s.png
+        - Helm:
+            - href: https://helm.sh/docs/
+              icon: helm.png
+        - NixOS:
+            - href: https://nixos.org/manual/nixos/stable/
+              icon: nixos.png
 
   widgets.yaml: ""

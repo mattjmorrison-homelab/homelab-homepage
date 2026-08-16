@@ -29,14 +29,6 @@ data:
             href: https://registry.morrisons.site
             icon: zot-registry.png
             description: Container registry
-        - GitHub:
-            href: https://github.com/mattjmorrison-homelab
-            icon: github.png
-            description: Homelab source repos
-        - Discord:
-            href: https://discord.com/channels/1534069041143218238/1534069041143218242
-            icon: discord.png
-            description: Alerts and notifications
 
     - Monitoring:
         - Grafana:
@@ -72,6 +64,15 @@ data:
             icon: si-apollographql
             description: Apollo Router GraphQL supergraph
 
-  bookmarks.yaml: ""
+  bookmarks.yaml: |
+    - Links:
+        - GitHub:
+            - href: https://github.com/mattjmorrison-homelab
+              icon: github.png
+              description: Homelab source repos
+        - Discord:
+            - href: https://discord.com/channels/1534069041143218238/1534069041143218242
+              icon: discord.png
+              description: Alerts and notifications
 
   widgets.yaml: ""

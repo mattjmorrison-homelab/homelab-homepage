@@ -19,7 +19,7 @@ data:
             description: GitOps continuous delivery
         - OpenBao:
             href: https://openbao.morrisons.site
-            icon: openbao.png
+            icon: https://openbao.morrisons.site/ui/favicon.svg
             description: Secrets management
         - Woodpecker:
             href: https://woodpecker.morrisons.site

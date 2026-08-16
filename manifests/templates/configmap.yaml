@@ -23,7 +23,7 @@ data:
             description: Secrets management
         - Woodpecker:
             href: https://woodpecker.morrisons.site
-            icon: woodpecker-ci.png
+            icon: woodpecker-ci.svg
             description: CI/CD pipelines
         - Zot:
             href: https://registry.morrisons.site

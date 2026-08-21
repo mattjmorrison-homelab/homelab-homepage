@@ -57,8 +57,8 @@ data:
     - Applications:
         - HDMI Switch:
             href: https://hdmi-switch.morrisons.site
-            icon: https://hdmi-switch.morrisons.site/logo
-            description: HDMI Wwitch Controller
+            icon: https://hdmi-switch.morrisons.site/favicon.png
+            description: HDMI Switch Controller
         - GraphQL Router:
             href: https://graphql.morrisons.site
             icon: si-apollographql

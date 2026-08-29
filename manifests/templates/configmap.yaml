@@ -70,6 +70,10 @@ data:
             - href: https://github.com/mattjmorrison-homelab
               icon: github-light.png
               description: Homelab source repos
+        - Open PRs:
+            - href: https://github.com/pulls?q=is%3Aopen+is%3Apr+org%3Amattjmorrison-homelab
+              icon: github-light.png
+              description: All open pull requests across the org
         - Discord:
             - href: https://discord.com/channels/1534069041143218238/1534069041143218242
               icon: discord.png
